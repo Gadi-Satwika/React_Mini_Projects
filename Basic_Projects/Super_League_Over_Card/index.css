@@ -1,0 +1,19 @@
+/* Write your code here. */
+.super-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 45px;
+}
+.background-page {
+  background-color: #0f172a;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.eachTeamImage {
+  width: 200px;
+  height: 200px;
+}
